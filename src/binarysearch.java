@@ -20,6 +20,7 @@ public class binarysearch {
         int key=6;
         int last=a.length-1;
         System.out.print(binary(a,0,last,key));
+        System.out.println();
 
     }
 }
