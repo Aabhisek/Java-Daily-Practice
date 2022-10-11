@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b299e418-4eb0-45ce-9af3-f6a1ab75b1b2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/duplicateRemovalSTR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/subString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/binarysearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/binarysearch.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +47,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.findOccuranceString">
+  <component name="RunManager" selected="Application.subString">
+    <configuration name="duplicateRemovalSTR" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="duplicateRemovalSTR" />
+      <module name="DSA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="findOccuranceString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="findOccuranceString" />
       <module name="DSA" />
@@ -59,20 +69,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="numberPallindrom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="numberPallindrom" />
-      <module name="DSA" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="primenumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="primenumber" />
-      <module name="DSA" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="stringPalindrom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stringPalindrom" />
       <module name="DSA" />
@@ -80,13 +76,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="subString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="subString" />
+      <module name="DSA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.subString" />
+        <item itemvalue="Application.duplicateRemovalSTR" />
         <item itemvalue="Application.findOccuranceString" />
         <item itemvalue="Application.findoccuranceArray" />
         <item itemvalue="Application.stringPalindrom" />
-        <item itemvalue="Application.numberPallindrom" />
-        <item itemvalue="Application.primenumber" />
       </list>
     </recent_temporary>
   </component>
@@ -108,7 +111,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
