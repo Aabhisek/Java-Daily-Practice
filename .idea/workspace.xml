@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b299e418-4eb0-45ce-9af3-f6a1ab75b1b2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/duplicateRemovalSTR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/subString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Matrix_add.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/first_noneRepeating_ele_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/matrixEqualCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spaceremoval_STR.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/binarysearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/binarysearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/findOccuranceString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/findOccuranceString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/findOccuranceString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findOccuranceString.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,30 +50,30 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.subString">
-    <configuration name="duplicateRemovalSTR" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="duplicateRemovalSTR" />
+  <component name="RunManager" selected="Application.matrixEqualCheck">
+    <configuration name="Matrix_add" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Matrix_add" />
       <module name="DSA" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="findOccuranceString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="findOccuranceString" />
+    <configuration name="first_noneRepeating_ele_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="first_noneRepeating_ele_array" />
       <module name="DSA" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="findoccuranceArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="findoccuranceArray" />
+    <configuration name="matrixEqualCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="matrixEqualCheck" />
       <module name="DSA" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="stringPalindrom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stringPalindrom" />
+    <configuration name="spaceremoval_STR" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="spaceremoval_STR" />
       <module name="DSA" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.matrixEqualCheck" />
+        <item itemvalue="Application.Matrix_add" />
+        <item itemvalue="Application.first_noneRepeating_ele_array" />
+        <item itemvalue="Application.spaceremoval_STR" />
         <item itemvalue="Application.subString" />
-        <item itemvalue="Application.duplicateRemovalSTR" />
-        <item itemvalue="Application.findOccuranceString" />
-        <item itemvalue="Application.findoccuranceArray" />
-        <item itemvalue="Application.stringPalindrom" />
       </list>
     </recent_temporary>
   </component>

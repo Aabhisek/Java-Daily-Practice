@@ -7,6 +7,9 @@ public class findOccuranceString {
         Scanner sc = new Scanner(System.in);
         String s = sc.nextLine();
         char a[]=s.toCharArray();
+
+
+
         Map<Character,Integer> map=new LinkedHashMap<>();
         for(char c:a){
             if(map.containsKey(c)){
